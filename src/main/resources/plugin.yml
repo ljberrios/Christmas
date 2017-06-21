@@ -1,0 +1,6 @@
+name: Christmas
+version: 1.0
+author: Thortex
+
+main: me.thortex.christmas.ChristmasPlugin
+depend: [WorldEdit, Votifier]

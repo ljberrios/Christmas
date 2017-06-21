@@ -1,0 +1,9 @@
+# The Christmas tree's location.
+# Example of format: "world:world x:100 y:70: z:100"
+tree:
+
+# The present locations.
+# Example of format:
+#   presents:
+#     - world:world x:100 y:70 z:100
+presents:
