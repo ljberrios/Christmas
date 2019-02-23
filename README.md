@@ -1,5 +1,4 @@
 # Christmas
-A plugin I made a few months for a server called MysticMC.
 
 You can place a Christmas tree through a schematic anywhere in the world.
 There are particles around the tree to make it look cooler. 
